@@ -5,3 +5,5 @@ Leetcode account can be found here:
 https://leetcode.com/jpyne/
 
 Uploaded to Github for the purpose of practice.
+
+Naming convention follows as: (problem name)_(tool used)_(problem number)
