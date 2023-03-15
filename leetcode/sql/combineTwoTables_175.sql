@@ -8,7 +8,7 @@ WHERE p.personId = a.personId
 
 
 
--- Documentation:
+-- Prompt:
 
 -- Table: Person
 

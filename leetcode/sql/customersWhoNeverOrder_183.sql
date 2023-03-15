@@ -5,7 +5,7 @@ WHERE o.id IS NULL
 
 
 
--- Documentation:
+-- Prompt:
 -- Table: Customers
 
 -- +-------------+---------+

@@ -20,7 +20,7 @@ WHERE orderNum IN (SELECT MAX(orderNum) FROM o)
 
 
 
--- Documentation:
+-- Prompt:
 -- Table: Orders
 
 -- +-----------------+----------+

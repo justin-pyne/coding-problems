@@ -6,7 +6,7 @@ WHERE a.temperature > b.temperature AND DATEDIFF(a.recordDate, b.recordDate) = 1
 
 
 
--- Documentation:
+-- Prompt:
 -- Table: Weather
 
 -- +---------------+---------+

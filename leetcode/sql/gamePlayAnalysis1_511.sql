@@ -8,7 +8,7 @@ GROUP BY player_id
 
 
 
--- Documentation:
+-- Prompt:
 -- Table: Activity
 
 -- +--------------+---------+

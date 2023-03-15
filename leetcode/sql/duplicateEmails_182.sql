@@ -6,7 +6,7 @@ HAVING count(id) > 1
 
 
 
--- Documentation:
+-- Prompt:
 -- Table: Person
 
 -- +-------------+---------+
