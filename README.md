@@ -1,5 +1,5 @@
 # coding-problems
-Collection of solutions to hackerrank/leetcode problems.
+Collection of solutions to leetcode problems.
 
 Leetcode account can be found here:
 https://leetcode.com/jpyne/
