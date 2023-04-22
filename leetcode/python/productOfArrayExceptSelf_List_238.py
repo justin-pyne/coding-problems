@@ -11,7 +11,7 @@ class Solution:
         left = 1
         for i in range(length):
             answer *= left
-            left *= nums[n]
+            left *= nums[i]
         
         #right product
         right = 1
