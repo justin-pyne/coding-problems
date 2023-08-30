@@ -23,7 +23,7 @@ class Solution:
 
         min_heap = [(freq, num) for num, freq in list(count.items())[:k]]
         heapq.heapify(min_heap)
-
+    
         for num, freq in list(count.items())[k:]:
             heapq.heappushpop(min_heap, (freq, num))
         
