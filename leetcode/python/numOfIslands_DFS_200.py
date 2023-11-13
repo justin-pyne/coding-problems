@@ -26,7 +26,7 @@ class Solution:
                 return
 
             # update visited
-            visited[i][j] = True
+            visited[r][c] = True
 
             # dfs
             dfs(r-1, c)
